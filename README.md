@@ -10,3 +10,5 @@ OR
 Run main.py
 
 Highlight files and select Rename Files (Individually) from the context menu
+
+To remove context menu entry, run remover.py
